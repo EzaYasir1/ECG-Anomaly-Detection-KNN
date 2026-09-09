@@ -1,0 +1,20 @@
+# Data files (large, and not ours to redistribute — see README for download steps)
+*.pickle
+*.zip
+mit_bih_csv/
+*.out
+
+# Trained model (large — KNN stores the full training set)
+*.joblib
+
+# Credentials — never commit these
+kaggle.json
+.kaggle/
+
+# Colab / Jupyter
+.ipynb_checkpoints/
+sample_data/
+
+# Python
+__pycache__/
+*.pyc
