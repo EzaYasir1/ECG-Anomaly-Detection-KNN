@@ -1,6 +1,6 @@
 # ECG Binary Anomaly Detection (KNN)
 
-The project is a simplified reimplementation of [andturken/ECG-Anomaly-Detection](https://github.com/andturken/ECG-Anomaly-Detection), reducing a 5-class, 3-model pipeline down to a single K-Nearest Neighbors classifier distinguishing **Normal** vs **Abnormal** heartbeats — built to deepen my understanding of the full ML pipeline (signal preprocessing, patient-level data leakage, hyperparameter tuning, and error analysis) rather than just running someone else's code.
+The project is a simplified reimplementation of [andturken/ECG-Anomaly-Detection](https://github.com/andturken/ECG-Anomaly-Detection), reducing a 5-class, 3-model pipeline down to a single K-Nearest Neighbors classifier distinguishing **Normal** vs **Abnormal** heartbeats — built to deepen my understanding of the full ML pipeline (signal preprocessing, patient-level data leakage, hyperparameter tuning, and error analysis).
 
 ## Results
 
